@@ -6,7 +6,7 @@ Caso queira adicionar/complementar o que foi dito aqui, sinta-se livre para envi
 **Aviso de antemão que não possuo propriedade sobre nenhum widget utilizado como exemplo aqui, apenas irei usá-los com intuito de educar e ilustrar.**
 
 # Como usar?
-Para utilizar um widget basta utilizar o link dele desta forma:
+Para utilizar um widget basta utilizar o link dele em seu README desta forma:
 ```
 ![Titulo Dele](Link Dele)
 ```
