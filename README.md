@@ -86,6 +86,9 @@ Não vou explicar toda a metodologia para fazer um desses (caso esteja interessa
 
 Ele também é customizável, e pela minha experiência, até mais maleável que o outro.
 
+> [!NOTE]\
+> A maneira que você terá que configurar cada um é diferente, então, sempre leia o README. -> Valido para o Snake Game de Perfil.
+
 ## Em resumo
 
 A diferença entre os dois é apenas o esforço despendido por um link. Alguns você só copia, e outros você tem que dar <a href="https://docs.github.com/pt/get-started/quickstart/fork-a-repo">Fork</a> no repositório e upa-lo para o Vercel com as configurações.
