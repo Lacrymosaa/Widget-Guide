@@ -35,23 +35,23 @@ Para modificar um item é necessário utilizar o "**&**" para juntar a próxima 
 username=marianvulpes&theme=dracula
 '''
 
-Alguns exemplos, utilizando ainda o GitHub Stats, são:
-- ## Título: title_color
+## Alguns exemplos, utilizando ainda o GitHub Stats, são:
+- ### Título: title_color
 ```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&title_color=00ffff)
 ```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&title_color=00ffff)
-- ## Texto: text_color 
+- ### Texto: text_color 
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&text_color=000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&text_color=00ffff)
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&text_color=000)
-- ## Fundo: bg_color
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&text_color=00ffff)
+- ### Fundo: bg_color
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&bg_color=00ffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&bg_color=000)
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&bg_color=00ffff)
-- ## Borda: border_color
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&bg_color=000)
+- ### Borda: border_color
 ```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&border_color=00ffff)
 ```
