@@ -19,10 +19,10 @@ Mas antes há dois tipos (que são de meu conhecimento) de Widgets para perfil: 
 # Os simples
 Os simples são os que você apenas necessita do link. Usarei como exemplo o <a href=https://github.com/anuraghazra/github-readme-stats>GitHub Stats</a>:
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula)
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula)
 
 Este é um widget simples e facilmente customizável, mas como é possivel ver: ele possui um link com o "**username=**". **Para ele se tornar seu você apenas deve colocar seu username do github após "username="**, simples assim. Isso serve para todos os widgets categorizados como simples. Pegue o código e troque para seu username e ele se tornará seu.
 
@@ -39,30 +39,30 @@ Assim como mudar o "**theme=**" afeta sua coloração, mexer em outros aspectos 
 
 Para modificar um item é necessário utilizar o "**&**" para juntar a próxima caracteristica ao link, como é feito em:
 ```
-username=marianvulpes&theme=dracula
+username=Lacrymosaa&theme=dracula
 ```
 
 ## Alguns exemplos, utilizando ainda o GitHub Stats, são:
 - ### Título: title_color
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&title_color=00ffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula&title_color=00ffff)
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&title_color=00ffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula&title_color=00ffff)
 - ### Texto: text_color 
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&text_color=00ffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula&text_color=00ffff)
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&text_color=00ffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula&text_color=00ffff)
 - ### Fundo: bg_color
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&bg_color=000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula&bg_color=000)
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&bg_color=000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula&bg_color=000)
 - ### Borda: border_color
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&border_color=00ffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula&border_color=00ffff)
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianvulpes&theme=dracula&border_color=00ffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacrymosaa&theme=dracula&border_color=00ffff)
 
 Essas classes não são universais, então, outros widgets podem utilizar de tags diferentes, como por exemplo background_color para o fundo, ao invés de bg_color. Então verifique as configurações possiveis dentro do repositório oficial do widget. 
 
